@@ -4,12 +4,12 @@ body, html {
 }
 
 .content {
-    margin: 0;
+    margin: 0 auto;
     width: 400px;
 }
 
 table, td, th {
-    border: 2px solid #aaa;
+    border: 1px solid #aaa;
 }
 
 table {
